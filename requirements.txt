@@ -48,15 +48,16 @@ bqplot
 duckdb
 perspective-python
 
-#version control
-jupyterlab-git
-
 #Language Server Protocol
 python-lsp-server[all]
 
 #draw tool
-elyra
 jupyterlab-drawio
+
+#tools
 jupyterlab-code-formatter
 black
 isort
+
+#templates
+elyra
