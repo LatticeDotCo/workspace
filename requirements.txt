@@ -46,3 +46,17 @@ bqplot
 
 #Engines
 duckdb
+perspective-python
+
+#version control
+jupyterlab-git
+
+#Language Server Protocol
+python-lsp-server[all]
+
+#draw tool
+elyra[all]
+jupyterlab-drawio
+jupyterlab-code-formatter
+black
+isort
