@@ -55,7 +55,7 @@ jupyterlab-git
 python-lsp-server[all]
 
 #draw tool
-elyra[all]
+elyra
 jupyterlab-drawio
 jupyterlab-code-formatter
 black
