@@ -46,7 +46,6 @@ bqplot
 
 #Engines
 duckdb
-#perspective-python
 
 #Language Server Protocol
 python-lsp-server[all]
@@ -55,3 +54,6 @@ python-lsp-server[all]
 jupyterlab-code-formatter
 black
 isort
+
+#BI
+perspective-python
