@@ -55,5 +55,5 @@ jupyterlab-code-formatter
 black
 isort
 
-#BI
+#data visualize
 perspective-python
